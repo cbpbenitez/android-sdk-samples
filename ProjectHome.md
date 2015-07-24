@@ -1,0 +1,1 @@
+Contains samples or test codes for android sdk
